@@ -1,0 +1,16 @@
+{
+  "name": "sveltekit-png-bug",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0",
+    "svelte2tsx": "^0.4.14"
+  },
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json",
+    "./component.svelte": "./component.svelte",
+    "./sveltekit.png": "./sveltekit.png"
+  }
+}
